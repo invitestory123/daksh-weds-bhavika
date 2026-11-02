@@ -30,9 +30,9 @@ window.WEDDING_DATA = {
   },
 
   venue: {
-    name: "Holiday Inn Zirakpur",
-    address: "Ambala - Chandigarh Expressway, Zirakpur, Punjab 140603",
-    mapsQuery: "Holiday Inn Chandigarh Zirakpur",
+    name: "Country Inn & Suites by Radisson, Zirakpur",
+    address: "NH-21, Ambala - Chandigarh Highway, Pabhat, Zirakpur, Punjab 140603",
+    mapsQuery: "Country Inn and Suites by Radisson Zirakpur",
   },
 
   events: [
@@ -41,7 +41,7 @@ window.WEDDING_DATA = {
       icon: "sparkles",
       date: "Saturday, 19th December 2026",
       time: "7:00 PM Onwards",
-      venue: "Holiday Inn Zirakpur, Punjab",
+      venue: "Country Inn & Suites by Radisson, Zirakpur",
       note: "With best compliments from All Relatives & Friends · Mob: +91 98119-55528",
     },
   ],
