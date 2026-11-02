@@ -26,7 +26,7 @@ window.WEDDING_DATA = {
 
   verse: {
     hindi: "॥ श्री गणेशाय नमः ॥",
-    text: "Sh. Arun Kumar & Late Dr. Amita Kumari Singh request you to grace the wedding celebration of his loving son Daksh Arun Singh with Bhavika Salwan.",
+    text: "Sh. Arun Kumar & Late Dr. Amita Kumari Singh request you to grace the wedding celebration of their loving son Daksh Arun Singh with Bhavika Salwan.",
   },
 
   venue: {
